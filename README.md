@@ -1,5 +1,9 @@
 # Command
 
+## Install
+
+`pip install git+ssh://git@github.com/dduong42/Command.git`
+
 ## Example
 
 ```python
